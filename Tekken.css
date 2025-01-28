@@ -14,7 +14,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #ff6600;
+    color: white;
 }
 
 header {
@@ -95,10 +95,10 @@ button:hover {
 }
 
 .character-cards .card {
-    background: #333;
-    padding: 20px;
-    border-radius: 10px;
-    width: 200px;
+    background: #1e2327;
+    padding: 5px;
+    border-radius: 5px;
+    width: 300px;
     text-align: center;
     transition: transform 0.3s;
 }
@@ -109,7 +109,7 @@ button:hover {
 
 .character-cards .card img {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .character-cards .card h3 {
@@ -125,7 +125,7 @@ button:hover {
 }
 
 .fighter {
-    background-color: #444;
+    background-color: #1a6fac;
     padding: 20px;
     border-radius: 10px;
     font-size: 20px;
@@ -134,7 +134,7 @@ button:hover {
 }
 
 .fighter:hover {
-    background-color: #ff6600;
+    background-color: #00c8ff;
 }
 
 /* Footer */
